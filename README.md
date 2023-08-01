@@ -2,7 +2,7 @@
 Analysis code and data related to the RNA-seq in this paper.
 
 ### Manuscript
-Check out our manuscript [here](https://www.biorxiv.org/content/10.1101/2022.12.01.518424v2)
+Check out our manuscript [here](https://www.biorxiv.org/content/10.1101/2022.12.01.518424v2). The fastq files are uploaded to GEO with [GSE239634](https://www.ncbi.nlm.nih.gov/geo/).
 
 ### Abstract
 
@@ -27,7 +27,7 @@ install.packages('')
 
 ### Running the code
 
-Please use the Analysis_code.R file to run the workflow.
+Please use the Analysis_code.R file to run the workflow. There are two batches for the sequenecing. 
 
 ## Authors 
 Hope E. Burks, Jenny L. Pokorny, Jennifer L. Koetsier, Quinn R. Roth-Carter, Christopher R. Arnette, Pedram Gerami, John T. Seykora, Jodi L. Johnson , Ziyou Ren, Kathleen J. Green
