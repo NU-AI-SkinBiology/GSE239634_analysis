@@ -27,7 +27,7 @@ install.packages('')
 
 ### Running the code
 
-Please use the Analysis_code.R file to run the workflow. There are two batches for the sequenecing data. 
+Please use the Analysis_code.R file to run the workflow. There are two batches for the sequenecing data. The same code was used to analyze both of the batches. The input file names need to be updated in order to run the analysis code.
 
 ## Authors 
 Hope E. Burks, Jenny L. Pokorny, Jennifer L. Koetsier, Quinn R. Roth-Carter, Christopher R. Arnette, Pedram Gerami, John T. Seykora, Jodi L. Johnson , Ziyou Ren, Kathleen J. Green
